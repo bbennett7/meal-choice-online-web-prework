@@ -3,4 +3,3 @@
 def meal_choice(choice="meat")
   puts "My meal choice is #{choice}"
 end
-meal_choice(turkey)
